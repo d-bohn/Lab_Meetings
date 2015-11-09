@@ -1,0 +1,110 @@
+---
+title: "Mental Representation of Neutral Face Perception"
+author: "Daniel Albohn"
+date: "November 11, 2015"
+output: 
+  ioslides_presentation: 
+    incremental: yes
+    widescreen: yes
+---
+
+## What's in a Neutral Face?
+
+<div class="centered">
+<img src="figs/Slide01.png" height=500px>
+</div>
+
+## What's in a Neutral Face?
+
+<div class="centered">
+<img src="figs/Slide02.png" height=500px>
+</div>
+
+## What's in a Neutral Face?
+
+<div class="centered">
+<img src="figs/Slide03.png" height=500px>
+</div>
+
+## What's in a Neutral Face?
+
+<div class="centered">
+<img src="figs/Slide04.png" height=500px>
+</div>
+
+## What's in a Neutral Face?
+
+<div class="centered">
+<img src="figs/Slide05.png" height=500px>
+</div>
+
+## Why Study Neutral?
+
+- Prototypical expressions are not the norm
+    + [Hess et al., 2009](http://dx.doi.org/10.1037/a0013386), [Russell, 1994](http://dx.doi.org/10.1037/0033-2909.115.1.102)
+- Neutral has not be studied extensively
+    + [Russell & Fehr, 1987](http://dx.doi.org/10.1037/0096-3445.116.3.223)
+    + [Neth and Martinez, 2009](http://dx.doi.org/10.1167/9.1.5)
+    + [Lee et al., 2008](http://dx.doi.org/10.1016/j.psychres.2007.02.005)
+
+## How to Study Neutral?
+
+- Face Ratings
+    + Pre- vs post-neutral displays
+    
+## How to Study Neutral
+
+<div class="centered">
+<img src="figs/Slide08.png" height=500px>
+</div>
+
+## How to Study Neutral
+
+<div class="centered">
+<img src="figs/Slide06.png" height=500px>
+</div>
+
+## How to Study Neutral
+
+<div class="centered">
+<img src="figs/Slide07.png" height=500px>
+</div>
+
+## Reverse Correlation
+ - An implicit measure
+ - "Mental representation"
+ 
+## Reverse Correlation
+
+<div class="centered">
+<img src="figs/RC_Dotch.tiff" height=500px>
+
+[[Dotch et al.,2008]](http://dx.doi.org/10.1111/j.1467-9280.2008.02186.x)
+</div>
+
+## Mental Represenation of Neutral
+
+<div class="centered">
+<img src="figs/Slide12.png" height=500px>
+</div>
+
+## Mental Represenation of Neutral
+
+<div class="centered">
+<img src="figs/Slide11.png" height=500px>
+</div>
+
+## Ratings are not Neutral
+
+<div class="centered">
+<img src="figs/RC_FC.png" height=500px>
+</div>
+
+## Elderly Neutral Faces
+
+
+## Gay/Straight Neutral Faces
+
+
+## Baby Neutral Faces
+
