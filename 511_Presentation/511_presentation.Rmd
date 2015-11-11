@@ -1,5 +1,6 @@
 ---
-title: "Mental Representation of Neutral Face Perception"
+title: "Neutral Face Perception"
+subtitle: "Mental Representation of Faces"
 author: "Daniel Albohn"
 date: "November 11, 2015"
 output: 
@@ -77,18 +78,30 @@ output:
 ## Reverse Correlation
 
 <div class="centered">
-<img src="figs/RC_Dotch.tiff" height=500px>
+<img src="figs/RC_Dotch.tiff" height=480px>
 
-[[Dotch et al.,2008]](http://dx.doi.org/10.1111/j.1467-9280.2008.02186.x)
+[Dotch et al., 2008](http://dx.doi.org/10.1111/j.1467-9280.2008.02186.x)
 </div>
 
-## Mental Represenation of Neutral
+## 
+
+<div class="centered">
+<img src="figs/average.png" height=500px>
+</div>
+
+## 
+
+<div class="centered">
+<img src="figs/RC_Example.png" height=500px>
+</div>
+
+## Mental Representation of Neutral
 
 <div class="centered">
 <img src="figs/Slide12.png" height=500px>
 </div>
 
-## Mental Represenation of Neutral
+## Mental Representation of Neutral
 
 <div class="centered">
 <img src="figs/Slide11.png" height=500px>
@@ -102,9 +115,18 @@ output:
 
 ## Elderly Neutral Faces
 
+<div class="centered">
+<img src="figs/Elderly.png" height=500px>
+</div>
 
 ## Gay/Straight Neutral Faces
 
+<div class="centered">
+<img src="figs/Gay_Straight.png" height=500px>
+</div>
 
 ## Baby Neutral Faces
 
+<div class="centered">
+<img src="figs/baby_autoscaled.jpg" height=500px>
+</div>
