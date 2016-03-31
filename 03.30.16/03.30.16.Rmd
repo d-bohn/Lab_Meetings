@@ -1,0 +1,82 @@
+---
+title: "Putting 'Social' Back in Social Media Analysis"
+subtitle: What can we learn from Facebook, Twitter, and Instagram?
+author: "Daniel Albohn"
+date: "March 31, 2016"
+output:
+  ioslides_presentation:
+    incremental: yes
+    keep_md: yes
+    self_contained: no
+    transition: faster
+    widescreen: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## How can statistics inform real-world issues?
+
+- Tank production during WWII
+- Code breaking
+- Epidemiology
+
+## Recently social media has taken over...
+- ...And shown...
+
+## Current Events
+<div class="centered">
+<img src="Images/royal_baby.png">
+</div>
+
+## Emergency Events
+<div class="centered">
+<img src="Images/hurricane.png">
+</div>
+
+## It is Even a 'Primary' Form of Communication
+<div class="centered">
+<img src="Images/debates.png" height=500px>
+</div>
+
+## More data, more problems
+- Facebook's unethical(?) manipulation of user feeds
+  + Is this data public?
+  + Can is be considered 'observational research'?
+- Big Brother watching?
+  + FBI vs. Apple and other tech companies
+- Do the benefits outweigh the costs?
+  + Matthew Gerber at UVA used twitter data to predict crime
+
+## What we know...
+- As Facebook usage increases (Chour and Edge, 2012)
+  + Attributions about how fair your life is goes down
+  + You perceive others as being happier
+- Individuals typically can only identify 72% of their Facebook friends (Croom et al., 2016)
+- For men... (Fox and Rooney, 2015)
+  + Number of selfies posted predicts trait narcissism and psychopathy
+  + Trait narcissism predicts editing of posted selfies
+  
+## What we know...
+- Twitter as a forecasting tool for
+  + Crime
+  + Severe weather
+  + Election predictions (U.K. and Middle East)
+  + Movie sales (Asur and Huberman, 2010)
+
+## What we can learn...
+- Some work predicting health outcomes from Facebook data
+  + Biggest predictor of alcoholism is posting pictures between 2AM - 6AM
+
+## An example is in order...
+- Text sentiment analysis
+- Twitter scraping with sentiment
+- Some brainstorm and discussion
+
+
+
+
+
+
+
