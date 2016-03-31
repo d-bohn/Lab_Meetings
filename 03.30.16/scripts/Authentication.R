@@ -21,8 +21,8 @@ if (require(httpuv) == FALSE) {
 
 # consumer key and secret come from twitter
 # change the key and secret by the info of your twitter app
-consumer_key <- "H2nXd09hWll8U40QD01xs5fmS"
-consumer_secret <- "kRWAzRKBHwYwy2poejd7PjihI5uY78LS4sqh920UUsv7ddjM72"
+consumer_key <- "NULL"
+consumer_secret <- "NULL"
 
 # register function
 # input: consumer_key, consumer_secret
