@@ -1,0 +1,35 @@
+slides > slide.title-slide hgroup h1 {
+  color: black;
+}
+
+h2 {
+  font-size: 40px;
+  color: black;
+}
+h3 {
+  font-size: 32px;
+  color: black;
+}
+p, li, td {
+  font-size: 25px;
+  color: black;
+}
+
+slides > slide.backdrop {
+  background: white;
+}
+
+.codefont pre {
+    font-size: 12px;
+    line-height: 10px;
+}
+
+.imgContainer{
+    float:left;
+}
+
+.footer {
+    color: black;
+    position: fixed; top: 98%;
+    text-align:left; width:100%;
+}
